@@ -3,6 +3,7 @@
 This is a CRUD API that stores and retrieves data from a MongoDB Atlas database. Powered by FastAPI and Beanie. 
 
 ## **SETUP/INSTALLATION.**
+
 ### Prerequisites
 
 To use this App you need to have some few prerequisites.
@@ -16,7 +17,6 @@ To use this App you need to have some few prerequisites.
 - Code/text editor
 
 - Terminal
-
 
 ### **Set Up**
 
@@ -34,6 +34,7 @@ To use this App you need to have some few prerequisites.
 * All required applications should be installed now.
 
 2. **Set up MongoDB Atlas.**
+
  - Go to [MongoDB Atlas](https://www.mongodb.com/atlas)
  - Create an account
  - Create a project
